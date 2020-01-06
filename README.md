@@ -12,3 +12,6 @@ Building a small ETL pipeline to load data into apache cassandra No-SQL Database
 ### > insert the data into the tables
 ### > perform select queries 
 
+### Files :
+#### > ETL.py : perform all the data-pipeline task
+#### > SQL_Queries.py : contains all the CQL queries
